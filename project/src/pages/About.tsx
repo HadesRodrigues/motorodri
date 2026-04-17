@@ -28,12 +28,12 @@ export default function About() {
             </h2>
             <p className="text-[#B8B8B8] text-lg leading-relaxed mb-4">
               Fundada com a missão de oferecer aos entusiastas automóveis uma experiência única
-              na aquisição de Motas premium, a MOTORODRI estabeleceu-se como referência no
-              mercado de Motas de alta gama em Portugal.
+              na aquisição de Motos premium, a MOTORODRI estabeleceu-se como referência no
+              mercado de Motos de alta gama em Portugal.
             </p>
             <p className="text-[#B8B8B8] text-lg leading-relaxed mb-4">
-              Especializamo-nos na seleção criteriosa de Motas desportivas, clássicas e
-              premium, garantindo que cada mota no nosso stock passa por uma rigorosa
+              Especializamo-nos na seleção criteriosa de Motos desportivas, clássicas e
+              premium, garantindo que cada moto no nosso stock passa por uma rigorosa
               inspeção de qualidade e autenticidade.
             </p>
             <p className="text-[#B8B8B8] text-lg leading-relaxed">
