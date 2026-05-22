@@ -82,7 +82,7 @@ export default function Footer() {
             <div className="mt-6">
               <p className="text-[#B8B8B8] text-sm leading-relaxed">
                 <strong className="text-white">Horário:</strong><br />
-                Seg - Sex: 09h - 19h<br />
+                Seg - Sex: 09h - 17:30h<br />
                 Sáb: Sob marcação
               </p>
             </div>
