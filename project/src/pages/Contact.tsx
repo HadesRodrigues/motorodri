@@ -61,8 +61,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold mb-1">Telefone</h3>
-                  <a href="tel:+351912345678" className="text-[#B8B8B8] hover:text-[#FF6B35] transition-colors">
-                    +351 912 345 678
+                  <a href="tel:+35917589195" className="text-[#B8B8B8] hover:text-[#FF6B35] transition-colors">
+                    +351 917 589 195
                   </a>
                 </div>
               </div>
@@ -75,8 +75,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold mb-1">Email</h3>
-                  <a href="mailto:info@motorodri.pt" className="text-[#B8B8B8] hover:text-[#FF6B35] transition-colors">
-                    info@motorodri.pt
+                  <a href="mailto:Jmotorodri@gmail.com" className="text-[#B8B8B8] hover:text-[#FF6B35] transition-colors">
+                    Jmotorodri@gmail.com
                   </a>
                 </div>
               </div>
@@ -106,7 +106,7 @@ export default function Contact() {
                 <div>
                   <h3 className="text-white font-semibold mb-1">Horário</h3>
                   <div className="text-[#B8B8B8] space-y-1 text-sm">
-                    <p>Segunda - Sexta: 09h00 - 19h00</p>
+                    <p>Segunda - Sexta: 09h00 - 17h30</p>
                     <p>Sábado: Sob marcação</p>
                     <p>Domingo: Encerrado</p>
                   </div>
