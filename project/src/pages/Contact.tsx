@@ -20,15 +20,15 @@ export default function Contact() {
 
     try {
       await emailjs.send(
-        'service_osg7cp2',
-        'template_3j89k4j',
+        'service_70ugmhb',
+        'template_hp128sn',
         {
           name: formData.name,
           email: formData.email,
           phone: formData.phone || 'Não fornecido',
           message: formData.message,
         },
-        '8Zu5q-E0FOkUHOuQ4'
+        'V52uEyVuP-Wi08Qn3'
       );
       setSubmitted(true);
       setFormData({ name: '', email: '', phone: '', message: '' });
